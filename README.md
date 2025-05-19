@@ -30,3 +30,10 @@ Visit the live website at: [Your GitHub Pages URL will appear here after deploym
 
 ## License
 This is a fan-made website and is not affiliated with Ubisoft or Tom Clancy's Rainbow Six Siege. 
+
+## Contributing
+Feel free to contribute to this project! You can:
+- Report bugs
+- Suggest new features
+- Submit pull requests
+- Improve documentation 
